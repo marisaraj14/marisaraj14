@@ -1,0 +1,3 @@
+- 👋 Hello there, I'm Marisa.
+- Currently Learning React Native and Python. 🐍 
+- Looking for opportunities to work in a competitive environment that would enable me to enhance my technical skills and widen the spectrum of my knowledge.
